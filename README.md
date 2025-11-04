@@ -29,3 +29,6 @@ Please let me know if you encounter any bugs, and if you do want to submit a bug
 
 **KNOWN BUGS:**
 - There is no system to handle if elements are not found, occasionally leading to the browser to close out randomly because it couldn't find things. (Probably quite rare, but I'll add a system for it nonetheless)
+
+**Changelog:**
+- Added an age affirmation prompt within the app itself.
