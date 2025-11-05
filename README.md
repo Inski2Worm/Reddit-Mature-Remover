@@ -29,12 +29,15 @@ Please let me know if you encounter any bugs, and if you do want to submit a bug
 
 **KNOWN BUGS:**
 - There is no system to handle if elements are not found, occasionally leading to the browser to close out randomly because it couldn't find things. (Probably quite rare, but I'll add a system for it nonetheless)
+- Loading a page that only contains a video / photo as opposed to an actual subreddit or just a user has a slightly different blocking element so I need to script that in.
 
 **PLANS:**
 - MAYBE learn LibreOffice Basic code to port over all my VBA functions as best as I can so people have an alternative to using MS Excel. (because Excel is paid)
   - Progress:
   
     I am currently porting over my code from VBA to LO Basic (LibreOffice Basic), the libraries are very similar and they both function relatively similar, however some things are obviously still requiring tweaking. For example, there is an issue where the shell just        refuses to run the python file, I'll need to learn more about the language to understand what is going on there. Side note: The UI currently looks terrible because I had to remake it as LO doesn't support .frm files.
+
+    Progress as of 05/11/2025 22:06; I have made a functional version of the code. Shell still doesn't run python script. Still working on it.
 
 **Changelog:**
 - Added an age affirmation prompt within the app itself.
