@@ -32,6 +32,9 @@ Please let me know if you encounter any bugs, and if you do want to submit a bug
 
 **PLANS:**
 - MAYBE learn LibreOffice Basic code to port over all my VBA functions as best as I can so people have an alternative to using MS Excel. (because Excel is paid)
+  - Progress:
+  
+    I am currently porting over my code from VBA to LO Basic (LibreOffice Basic), the libraries are very similar and they both function relatively similar, however some things are obviously still requiring tweaking. For example, there is an issue where the shell just        refuses to run the python file, I'll need to learn more about the language to understand what is going on there. Side note: The UI currently looks terrible because I had to remake it as LO doesn't support .frm files.
 
 **Changelog:**
 - Added an age affirmation prompt within the app itself.
