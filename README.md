@@ -1,5 +1,12 @@
 # Reddit-Mature-Remover
-An excel file and a Python file that removes the 18+ age gate on Reddit. You will need Python installed and added to PATH for this to work, and perhaps the Selenium and pyarmor libraries. You will also need Microsoft Excel and you will need to enable the macros. It will say it isn't safe, it's your choice weather you want to trust me or not, I do not care.
+An excel file and a Python file that removes the 18+ age gate on Reddit. You will need Python installed and added to PATH for this to work, and perhaps the Selenium and pyarmor libraries. For the best experience you will also need Microsoft Excel and you will need to enable the macros. It will say it isn't safe, it's your choice weather you want to trust me or not, I do not care.
+
+Are you tired of feeling violated for simply browsing the internet?
+
+Tired of having to submit your ID to sketchy 3rd party providers with very loosely defined policies?
+
+Well here is a small little act of rebellion against it! This only works on Reddit as of current, and probably for the forseeable future, however the fact that it works is still nice right?
+Microsoft Excel is the reccommended version that you should use as I have years worth of experience with VBA whereas with LO Basic I have barely any, more is explained below!
 
 # HOW TO USE:
 
