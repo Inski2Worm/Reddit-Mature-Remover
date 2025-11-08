@@ -48,6 +48,8 @@ Please let me know if you encounter any bugs, and if you do want to submit a bug
 - There is no system to handle if elements are not found, occasionally leading to the browser to close out randomly because it couldn't find things. (Probably quite rare, but I'll add a system for it nonetheless)
 - Loading a page that only contains a video / photo as opposed to an actual subreddit or just a user has a slightly different blocking element so I need to script that in.
     - Update(06/11/2025: 04:33): I have found the element that does this and will work on scripting it in tomorrow.
+    
+    - Update(08/11/2025: 00:01): I had actually not found what I needed to adjust, but I have now found it. Will start actual scripting tomorrow.
 
 **PLANS:**
 - MAYBE learn LibreOffice Basic code to port over all my VBA functions as best as I can so people have an alternative to using MS Excel. (because Excel is paid)
