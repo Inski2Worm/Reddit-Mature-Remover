@@ -8,6 +8,8 @@ Tired of having to submit your ID to sketchy 3rd party providers with very loose
 Well here is a small little act of rebellion against it! This only works on Reddit as of current, and probably for the forseeable future, however the fact that it works is still nice right?
 Microsoft Excel is the reccommended version that you should use as I have years worth of experience with VBA whereas with LO Basic I have barely any, more is explained below!
 
+**GET THE LATEST VERSION BY CHECKING TAGS!**
+
 # HOW TO USE:
 
 I've designed this to be very simple because it really isn't too complex in the first place.
