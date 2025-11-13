@@ -42,6 +42,8 @@ Please let me know if you encounter any bugs, and if you do want to submit a bug
 
 - The UI looks terrible for now because it was put together with functionality over looks, I will improve it to look like the Excel one in the somewhat near future. Excel remains my primary area of development.
 
+- Code will error out upon first pressing the open button. It's okay, it  will work the second time, just re-run it. I'm fixing this in a planned bugfix patch.
+
 # MISC:
 
 ****BY USING THIS TOOL YOU ARE AFFIRMING THAT YOU ARE AT LEAST 18+ YEARS OF AGE AND ARE ONLY DOING THIS SO YOU DON'T HAVE TO CASUALLY LEAK YOUR GOVERNMENT ID ON THE INTERNET.****
